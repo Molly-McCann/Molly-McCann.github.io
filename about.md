@@ -1,6 +1,8 @@
+---
 layout: page
 title: About
 permalink: /about/
+---
 
 My name is Molly McCann, and I'm currently a sports analytics master’s student at the University of Notre Dame. I have a deep passion for soccer analytics and a love for exploring data in all its forms.
 
