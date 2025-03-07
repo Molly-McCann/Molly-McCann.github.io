@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Providing Ratings for Amateur and Professional Athletes Based on Graded Exercise Test Results"
-author: "Molly McCann" 
-contributors: "Taylor Hill"
+author: "Molly McCann & Taylor Hill"
 ---
 
 ## Executive Summary 
