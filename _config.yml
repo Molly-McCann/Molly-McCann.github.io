@@ -50,6 +50,21 @@ minima:
   #date_format: "%b-%d-%Y"
 
   # Generate social links in footer.
-  social_links:
-    - { platform: github,         user_url: "https://github.com/molly-mccann" }
-    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/mollymccann" }
+  # social_links:
+  #  - { platform: github,         user_url: "https://github.com/molly-mccann" }
+  #  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/mollymccann" }
+
+ # Social Media Links
+  # Renders icons via Font Awesome Free webfonts CDN, based on ordered list of entries.
+  #
+  # Entry keys:
+  # * title    Tooltip rendered on hovering over icon.
+  # * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
+  # * url      Full URL of social profile.
+  #social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/molly-mccann"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/mollymccann"
